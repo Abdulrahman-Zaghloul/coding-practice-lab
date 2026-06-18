@@ -1,23 +1,16 @@
 # Coding Practice Lab
 
-A structured portfolio repository for building strong foundations in Python, SQL, Linux, Git, and Data Engineering.
-
-## Goal
-
-This repository documents my journey from fundamentals to production-grade Data Engineering skills.
-
-## Current Focus
-
-- Python fundamentals
-- SQL fundamentals
-- Linux command line
-- Git and GitHub workflow
+A collection of hands-on programming exercises and mini-projects focused on building strong software and data engineering fundamentals.
 
 ## Structure
 
-```text
-coding-practice-lab/
-├── python/   # Python practice, exercises, and mini-projects
-├── sql/      # SQL practice, queries, and database exercises
-└── README.md
-```
+- `python/` - Python exercises and projects
+- `sql/` - SQL exercises and query practice
+
+## Goals
+
+- Improve problem-solving skills
+- Strengthen Python fundamentals
+- Practice SQL for analytics and data engineering
+- Build consistent coding habits
+- Document progress over time
